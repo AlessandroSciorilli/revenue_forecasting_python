@@ -4,3 +4,4 @@
 - Enhanced the ARIMA model to consider business days only, improving accuracy in forecasting by eliminating non-business day revenue data.
 - Performed seasonal decomposition segmented by clients' NAICS codes, allowing for industry-specific trend analysis and better prediction accuracy.
 - Created a Tableau Dashboard for effective visualization of forecasting results, enabling clear interpretation of seasonal components, residuals, and industry-specific trends, thereby enhancing data-driven decision-making strategies.
+- Tableau Dashboard at the following link: https://public.tableau.com/app/profile/alessandrosciorilli/viz/PitneyBowesAnalysis/Dashboard2
