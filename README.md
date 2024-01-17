@@ -1,4 +1,4 @@
-### Project 5: Revenue Forecasting with Python (Top 5 finalist at Pitney Bowes Data Challenge), 2023
+### Revenue Forecasting with Python
 - Implemented an ARIMA-based predictive model for revenue forecasting, utilizing Python for data analysis and modeling.
 - Preprocessed and aggregated a diverse dataset, identifying critical revenue trends and patterns, and adjusted for variations in client data points and onboarding periods.
 - Enhanced the ARIMA model to consider business days only, improving accuracy in forecasting by eliminating non-business day revenue data.
